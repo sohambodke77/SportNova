@@ -13,4 +13,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
+    <style name="Theme.MyApplication.AppBarOverlay" parent="ThemeOverlay.Material3.Dark" />
+    <style name="Theme.MyApplication.PopupOverlay" parent="ThemeOverlay.Material3.Dark" />
 </resources>
