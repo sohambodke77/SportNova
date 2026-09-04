@@ -29,6 +29,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.sportnova.app.theme.*
+import com.sportnova.app.model.SportType
 
 // ==========================================
 // SPORTNOVA EXACT REUSABLE UI COMPONENTS
